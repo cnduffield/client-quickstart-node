@@ -30,4 +30,8 @@
     "express": "^4.13.3",
     "twilio": "^2.9.2"
   }
+  "scripts": {
+  "start": "node server.js"
+},
+"main": "server.js"
 }
